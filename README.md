@@ -4,7 +4,7 @@ Looking for full control over Android devices?
 This tool gives you everything — silent, remote, powerful.
 
 💣 Features:
-▶ SPY TOOLS
+▶ introSPY TOOLS
 
 🔴 Live Camera Access (Front/Back)
 
@@ -61,4 +61,5 @@ This tool gives you everything — silent, remote, powerful.
 ✅ Also get support in hacking
 
 📩 DM or reply to get started
-RATsupportbot
+
+@RATsupportbot
