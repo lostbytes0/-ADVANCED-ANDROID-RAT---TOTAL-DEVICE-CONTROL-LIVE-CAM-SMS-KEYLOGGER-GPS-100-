@@ -53,7 +53,8 @@ This tool gives you everything — silent, remote, powerful.
 🫥 Works in stealth mode (hidden icon)
 
 
-💵 Price: $100 (one-time)
+💵 Price: $400 (life-time) send money in Bitcoin 
+
 ✅ Full Panel Access
 
 ✅ APK Builder Included
@@ -65,3 +66,5 @@ This tool gives you everything — silent, remote, powerful.
 📩 DM or reply to get started
 
 @RATsupportbot
+
+You can also find other RATs in this channel.
